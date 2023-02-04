@@ -1,5 +1,5 @@
 # Learn-Python
-Want to learn the basic fundamentals of Python? I have provided most of the most useful and important mechanics you can do in Python.
+Want to learn the basic fundamentals of Python? I have provided most of the useful and important mechanics you can do in Python, beginner-friendly!
 
 Hello! I watched a 4-hour Python Beginner Guide and took some notes while using Replit as I followed through the video. So I decided 
 why not create a repository to shows the notes that I have taken to help YOU as well. All of my notes were originally in 1 FILE (aMain(0).py)
